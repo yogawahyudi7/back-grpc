@@ -1,4 +1,4 @@
-module simple-grpc
+module back-grpc
 
 go 1.21.1
 
